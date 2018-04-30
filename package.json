@@ -10,16 +10,16 @@
   "keywords": [
     "react"
   ],
-  "author": "Manchester Codes",
+  "author": "mssososophie",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MCRcodes/react-bootstrap.git"
+    "url": "git+https://github.com/mssososophie/weather-app.git"
   },
   "bugs": {
-    "url": "https://github.com/MCRcodes/react-bootstrap/issues"
+    "url": "https://github.com/mssososophie/weather-app/issues"
   },
-  "homepage": "https://github.com/MCRcodes/react-bootstrap#readme",
+  "homepage": "https://github.com/mssososophie/weather-app/blob/master/README.md",
   "dependencies": {
     "prop-types": "^15.6.1",
     "raf": "^3.4.0",
