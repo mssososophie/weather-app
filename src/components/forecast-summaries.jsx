@@ -21,7 +21,7 @@ const ForecastSummaries = props => (
 );
 
 ForecastSummaries.propTypes = {
- ,
+  forecasts: PropTypes.arrayOf.isRequired,
 };
 
 export default ForecastSummaries;
